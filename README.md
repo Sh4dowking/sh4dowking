@@ -24,4 +24,4 @@ I build mobile and desktop applications with a focus on clean architecture and p
 🇩🇪 **German** (Native) | 🇷🇴 **Romanian** (Native) | 🇬🇧 **English** (Proficient) | 🇫🇷 **French** (Advanced) | 🇯🇵 **Japanese** (Beginner)
 
 ---
-*Connect with me to talk about algorithms, soulslike games, or anything about rowing.*
+*Connect with me to talk about algorithms, soulslike games or literally anything about rowing.*
