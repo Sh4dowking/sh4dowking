@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Sh4dowking (Alexandru) 👋
 
-<!--
-**Sh4dowking/sh4dowking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Lost in the code or lost in a book." 📚
 
-Here are some ideas to get you started:
+### 👾 Player Stats
+* **Level:** 19
+* **Class:** Computer Science Student @ **ETH Zürich** (Year 2)
+* **Guild:** Rowing Club (Training 5-7x/week) 🚣
+* **Current Quest:** Building a mobile app for rowing training management
+* **Favorite Lore:** *Shadow Slave* by Guiltythree
+* **Top Game:** *Remnant 2* (Best. Game. Ever.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Skills
+I build mobile and desktop applications with a focus on clean architecture and problem-solving.
+
+* **Languages:** `Java` `Python` `Dart` `C++`
+* **Mobile:** `Flutter` (SchulNetz Mobile, Rowing App)
+* **Tools:** `Git` `Linux` `SQLite` `Node.js`
+* **Spoken Languages:** 🇩🇪 German (Native), 🇷🇴 Romanian (Native), 🇬🇧 English (Pro), 🇫🇷 French (Advanced), 🇯🇵 Japanese (Beginner)
+
+---
+*Connect with me to talk about algorithms, soul-like games, or anything about rowing.*
