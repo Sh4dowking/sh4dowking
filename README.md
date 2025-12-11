@@ -6,7 +6,7 @@
 * **Guild:** Rowing Club (Training 5-7x/week) 🚣
 * **Current Quest:** Building a mobile app for rowing training management
 * **Favorite Lore:** *Shadow Slave* by Guiltythree
-* **Top Game:** *Remnant II* (Best. Game. Ever.)
+* **Top Game:** *Remnant II* (10/10 Masterpiece)
 
 ### 🛠 Tech Stack & Skills
 I build mobile and desktop applications with a focus on clean architecture and problem-solving.
