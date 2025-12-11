@@ -9,7 +9,7 @@
 * **Top Game:** *Remnant II* (10/10 Masterpiece)
 
 ### 🛠 Tech Stack & Skills
-I build mobile and desktop applications with a focus on clean architecture and problem-solving.
+I build mobile and desktop applications with an emphasis on clean architecture and efficient problem-solving.
 
 <div align="left">
 
