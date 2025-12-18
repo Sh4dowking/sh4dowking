@@ -8,6 +8,9 @@
 * **Favorite Lore:** *Shadow Slave* by **Guiltythree**
 * **Top Game:** *Remnant II* (10/10 Masterpiece)
 
+### 🌍 Spoken Languages
+🇩🇪 **German** (Native) | 🇷🇴 **Romanian** (Native) | 🇬🇧 **English** (Proficient) | 🇫🇷 **French** (Advanced) | 🇯🇵 **Japanese** (Beginner)
+
 ### 🛠 Tech Stack & Skills
 
 <div align="left">
@@ -18,9 +21,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
 </div>
-
-### 🌍 Spoken Languages
-🇩🇪 **German** (Native) | 🇷🇴 **Romanian** (Native) | 🇬🇧 **English** (Proficient) | 🇫🇷 **French** (Advanced) | 🇯🇵 **Japanese** (Beginner)
 
 ---
 *Connect with me to talk about algorithms, soulslike games or literally anything about rowing :)*
