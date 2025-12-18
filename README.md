@@ -8,10 +8,10 @@
 * **Favorite Lore:** *Shadow Slave* by **Guiltythree**
 * **Top Game:** *Remnant II* (10/10 Masterpiece)
 
-### 🌍 Spoken Languages
+### 🌍 Languages
 🇩🇪 **German** (Native) | 🇷🇴 **Romanian** (Native) | 🇬🇧 **English** (Proficient) | 🇫🇷 **French** (Advanced) | 🇯🇵 **Japanese** (Beginner)
 
-### 🛠 Tech Stack & Skills
+### 🛠 Tech Stack
 
 <div align="left">
 
