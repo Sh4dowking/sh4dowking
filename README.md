@@ -1,4 +1,4 @@
-# Hi there, I'm Sh4dowking (Alexandru) 👋
+# Hey there, I'm Sh4dowking (Alexandru) 👋
 
 ### 👾 Player Stats
 * **Level:** 19
@@ -6,13 +6,12 @@
 * **Guild:** Rowing Club (Training 5-7x/week) 🚣
 * **Current Quest:** Building a mobile app for rowing training management
 * **Favorite Lore:** *Shadow Slave* by **Guiltythree**
-* **Top Game:** *Remnant II* (10/10 Masterpiece)
+* **Best Game:** *Remnant II* (**10**/**10** Masterpiece)
 
-### 🌍 Languages
-🇩🇪 **German** (Native) | 🇷🇴 **Romanian** (Native) | 🇬🇧 **English** (Proficient) | 🇫🇷 **French** (Advanced) | 🇯🇵 **Japanese** (Beginner)
+### 📜 Knowledge
+**German** (Native) | **Romanian** (Native) | **English** (Proficient) | **French** (Advanced) | **Japanese** (Beginner)
 
-### 🛠 Tech Stack
-
+### 🎯 Skills
 <div align="left">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405E.svg?style=flat&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) 
