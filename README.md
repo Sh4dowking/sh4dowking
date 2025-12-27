@@ -9,7 +9,7 @@
 * **Best Game:** *Remnant II* (**10**/**10** Masterpiece)
 
 ### 📜 Knowledge
-**German** (Native) • **Romanian** (Native) • **English** (Proficient) • **French** (Advanced) • **Japanese** (Beginner)
+**German** (Native)  •  **Romanian** (Native)  •  **English** (Proficient)  •  **French** (Advanced)  •  **Japanese** (Beginner)
 
 ### 🎯 Skills
 <div align="left">
