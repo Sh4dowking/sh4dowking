@@ -1,10 +1,10 @@
 # Hey there, I'm Sh4dowking (Alexandru) 👋
 
 ### 👾 Player Stats
-* **Level:** 19
-* **Class:** Computer Science Student @ **ETH Zürich** (Year 2)
+* **Level:** 20
+* **Class:** Computer Science Student @ **ETH Zürich** (4th Semester)
 * **Guild:** Rowing Club (Training 5-7x/week) 🚣
-* **Current Quest:** Building a mobile app for rowing training management
+* **Current Quest:** Developing a *Dark Souls III* Save file analyzer
 * **Favorite Lore:** *Shadow Slave* by **Guiltythree**
 * **Best Game:** *Remnant II* (**10**/**10** Masterpiece)
 
