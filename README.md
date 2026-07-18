@@ -6,7 +6,7 @@
 * **Guild:** Rowing Club (Training 5-7x/week) 🚣
 * **Current Quest:** Developing a *Dark Souls III* Save file analyzer
 * **Favorite Lore:** *Shadow Slave* by **Guiltythree**
-* **Best Game:** *Remnant II* (**10**/**10** Masterpiece)
+* **Best Game:** *Remnant II* (Masterpiece)
 
 ### 📜 Knowledge
 * **German** (Native)
