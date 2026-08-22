@@ -8,13 +8,6 @@
 * **Favorite Lore:** *Shadow Slave* by **Guiltythree**
 * **Best Game:** *Remnant II* (Masterpiece)
 
-### 📜 Knowledge
-* **German** (Native)
-* **Romanian** (Native)
-* **English** (Proficient)
-* **French** (Advanced)
-* **Japanese** (Beginner)
-
 ### 🎯 Skills
 <div align="left">
 
