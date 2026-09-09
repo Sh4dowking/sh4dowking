@@ -2,11 +2,11 @@
 
 ### 👾 Player Stats
 * **Level:** 20
-* **Class:** Computer Science Student @ **ETH Zürich** (4th Semester)
+* **Class:** Computer Science Student @ **ETH Zürich** (5th Semester)
 * **Guild:** Rowing Club (Training 5-7x/week) 🚣
-* **Current Quest:** Developing a *Dark Souls III* Save file analyzer
+* **Current Quest:** Developing a Loyalty Card Mobile Application
 * **Favorite Lore:** *Shadow Slave* by **Guiltythree**
-* **Best Game:** *Remnant II* (Masterpiece)
+* **Best Game:** *Remnant II* (truly a masterpiece)
 
 ### 🎯 Skills
 <div align="left">
